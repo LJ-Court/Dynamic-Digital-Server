@@ -1,5 +1,4 @@
 import tkinter as tk
-import download as downloadfiles
 
 colourpalette: list = ["#005BE8", "#009EF2", "#0BCADB", "#00F2C3", "#00E879"]
 
