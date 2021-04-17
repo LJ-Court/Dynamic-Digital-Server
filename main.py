@@ -6,7 +6,7 @@ class DynamicDigital:
 
     def __init__(self, root):
 
-        root.title("Dynamic Digital Server Tools")
+        root.title("Dynamic Digital Server Tools - Download Mode")
 
         baseframe = ttk.Frame(root, padding="3 3 12 12")
         baseframe.grid(column=0, row=0, sticky=(N, W, E, S))
